@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: How to Use the Digitized Catalogue
 ---
 
 
