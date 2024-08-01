@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Use the Digitized Catalogue
+title: Home
 ---
 
 

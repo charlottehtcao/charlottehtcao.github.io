@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Original 1957 Catalogue of Manuscripts
 ---
 
