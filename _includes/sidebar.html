@@ -1,41 +1,40 @@
-<!-- Belongs at: /_includes/navigation.html -->
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+     <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-<!-- This finds the current page so it can be highlighted. -->
-
-{% for entry in site.data.navigation %}
-{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
-    {% if fullurl == page.url %}
-        {% assign current_page = fullurl %}
-        {% break %}
-    {% elsif page.url contains fullurl %}
-        {% assign current_page = fullurl %}
-    {% endif %}
-{% endfor %}
-
-<!-- Then we build the nav bar. -->
-<nav>
-    <ul>
-    {% for entry in site.data.navigation %}
-        {% if entry.url == current_page %}
-            <!-- uses yellow, you can change to any other hexadecimal colour code. -->
-            {% assign current = ' style="background-color: #FFFFFF"' %}
-        {% else %}
-            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
-            {% assign current = null %}
-        {% endif %}
-        {% assign sublinks = entry.sublinks %}
-        {% if sublinks %}
-        <li{{ current }}>
-            <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
-            <ul>
-                {% for sublink in sublinks %}
-                <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-                {% endfor %}
-            </ul>
-        </li>
-        {% else %}
-        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
-        {% endif %}
-    {% endfor %}
-    </ul>
-</nav>
+     <!-- Toggleable sidebar -->
+     <div class="sidebar" id="sidebar">
+       <div class="sidebar-item">
+         <p>{{ site.description }}</p>
+       </div>
+     
+       <nav class="sidebar-nav">
+         <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
+     
+         {% comment %}
+           The code below dynamically generates a sidebar nav of pages with
+           `layout: page` in the front-matter. See readme for usage.
+         {% endcomment %}
+     
+         {% assign pages_list = site.pages | sort:"url" %}
+         {% for node in pages_list %}
+           {% if node.title != null %}
+             {% if node.layout == "page" %}
+               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+             {% endif %}
+           {% endif %}
+         {% endfor %}
+     
+         <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+         <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+         <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+       </nav>
+     
+       <div class="sidebar-item">
+         <p>
+           &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+         </p>
+       </div>
+     </div>
+     
+     
