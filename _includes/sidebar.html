@@ -13,12 +13,12 @@
      
          {% for node in site.pages %}
            {% if node.title != null and node.layout == "page" and node.title != "Home" %}}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </nav>
-    </div>
+               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+             {% endif %}
+           {% endif %}
+         {% endfor %}
+       </nav>
+     </div>
      
      <!-- Sidebar toggle button -->
      <label for="sidebar-checkbox" class="sidebar-toggle">
