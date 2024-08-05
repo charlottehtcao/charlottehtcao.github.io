@@ -1,16 +1,16 @@
 # Setup
-title:               Stanford Text Technologies
-tagline:             'Neil Ripley Ker Catalogue and Other Works'
-description:         'Neil Ripley Ker Catalogue and Other Works is a digital project hosted by Stanford Text Technologies.'
-url:                 'https://charlottehtcao.github.io/'
-baseurl:            
+title:               "Stanford Text Technologies"
+tagline:             "Neil Ripley Ker Catalogue and Other Works"
+description:         "Neil Ripley Ker Catalogue and Other Works is a digital project hosted by Stanford Text Technologies."
+url:                 "https://charlottehtcao.github.io"
+baseurl:             "/ker/"
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Elaine Treharne
-  url:               https://english.stanford.edu/people/elaine-treharne
+  name:              "Elaine Treharne"
+  url:               "https://english.stanford.edu/people/elaine-treharne"
   email:             treharne@stanford.edu 
 
 # Gems
