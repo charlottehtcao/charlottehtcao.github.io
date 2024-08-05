@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Home
 ---
 Neil Ripley Ker (1908-1982), Reader in Palaeography and Fellow of Magdalen
