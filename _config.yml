@@ -2,8 +2,8 @@
 title:               Stanford Text Technologies
 tagline:             'Neil Ripley Ker Catalogue and Other Works'
 description:         'Neil Ripley Ker Catalogue and Other Works is a digital project hosted by Stanford Text Technologies.'
-url:                 https://charlottehtcao.github.io
-baseurl:             '/ker'
+url:                 'https://charlottehtcao.github.io/'
+baseurl:             '/ker/'
 paginate:            5
 permalink:           pretty
 
