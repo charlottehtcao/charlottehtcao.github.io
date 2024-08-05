@@ -12,7 +12,8 @@
          <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
      
          {% for node in site.pages %}
-           {% if node.title != null and node.layout == "page" and node.title != "Home" %}}
+           {% if node.title != null %}
+             {% if node.layout == "page" and node.title != "Home" %}
                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
              {% endif %}
            {% endif %}
