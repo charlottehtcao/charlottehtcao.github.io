@@ -1,7 +1,7 @@
 # Setup
-title:               Neil Ripley Ker Catalogue and Other Works
-tagline:             A Text Technologies Project
-description:         'Neil Ripley Ker Catalogue and Other Works is a digital project hosted by Stanford Text Technologies.'
+title:               Digital Ker
+tagline:             Mapping Neil Ker at Stanford
+description:         Neil Ripley Ker Catalogue and Other Works is a digital project hosted by Stanford Text Technologies.
 url:                 'https://charlottehtcao.github.io'
 baseurl:            
 paginate:            5
