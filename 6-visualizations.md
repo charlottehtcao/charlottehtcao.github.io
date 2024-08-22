@@ -27,10 +27,10 @@ Genre of Manuscript Plotted Against Date Written (Scatterplot Graph)
 Genre of Manuscript Plotted against Entry Length of Ker's Description (Beeswarm Graph)
 <div class="flourish-embed flourish-scatter" data-src="visualisation/19140579">
     <script src="https://public.flourish.studio/resources/embed.js"></script>
-    <noscript>
-        <img src="https://public.flourish.studio/visualisation/19140579/thumbnail" width="100%" alt="scatter visualization" />
-    </noscript>
-</div>
+        <noscript>
+            <img src="https://public.flourish.studio/visualisation/19140579/thumbnail" width="100%" alt="scatter visualization" />
+        </noscript>
+    </div>
 
 
 
