@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unpublished Lectures
+title: Unpublished Materials
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Ker-Essay-Notes-on-Old-English-Script.pdf.pdf" width="800" height="600"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Ker-Essay-Notes-on-Old-English-Script.pdf" width="800" height="600"></object>
