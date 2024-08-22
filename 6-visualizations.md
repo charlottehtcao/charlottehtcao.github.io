@@ -35,4 +35,4 @@ Genre of Manuscript Plotted against Entry Length of Ker's Description (Beeswarm 
 
 
 Map of Manuscript Provenance
-<iframe src="https://stanford.maps.arcgis.com/apps/instant/portfolio/index.html?appid=3d3266eb07c5489d9513def5f0faf7e2" width="400" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://stanford.maps.arcgis.com/apps/instant/portfolio/index.html?appid=3d3266eb07c5489d9513def5f0faf7e2" width="6000" height="6000" frameborder="0" style="border:0" allowfullscreen title=""></iframe>
