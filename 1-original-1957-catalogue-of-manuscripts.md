@@ -7,8 +7,7 @@ title: Original 1957 Catalogue of Manuscripts
 
 -----
 
-## "A Supplement to *Catalogue of Manuscripts Containing Anglo-Saxon*" by Neil R. Ker and "Further Addenda and Corrigenda to 
-N.R. Ker's *Catalogue*" by Mary Blockley
+## "A Supplement to *Catalogue of Manuscripts Containing Anglo-Saxon*" by Neil R. Ker and "Further Addenda and Corrigenda to N.R. Ker's *Catalogue*" by Mary Blockley
 <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Ker-Corrigenda-and-Blockley-Further-Addenda-Corrigenda.pdf" width="800" height="600"></object>
 
 -----
