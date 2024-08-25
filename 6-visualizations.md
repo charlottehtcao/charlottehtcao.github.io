@@ -13,7 +13,7 @@ title: Visualizations
   </noscript>
 </div>
 
-
+-----
 
 ## Genre of Manuscript Plotted Against Date Written (Scatterplot Graph)
 
@@ -24,7 +24,7 @@ title: Visualizations
     </noscript>
 </div>
 
-
+-----
 
 ## Genre of Manuscript Plotted against Entry Length of Ker's Description (Beeswarm Graph)
 
@@ -35,7 +35,7 @@ title: Visualizations
         </noscript>
     </div>
 
-
+-----
 
 ## Map of Manuscript Provenance
 
