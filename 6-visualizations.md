@@ -36,6 +36,11 @@ title: Visualizations
     </div>
 
 -----
-## Comparing Manuscript by the Word Count Length of Ker's Description
+## Comparing Manuscript by the Word Count Length of Ker's Description (Boxplot)
+
+<iframe src="https://charlottehtcao.github.io/visualizations/Ker-Word-Count-Box-Plot-R.html" width="600" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+-----
+## Plotting Manuscripts by the Date of its Creation (Dot Plot)
 
 <iframe src="https://charlottehtcao.github.io/visualizations/Ker-Word-Count-Box-Plot-R.html" width="600" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
