@@ -36,3 +36,5 @@ We welcome other contributions to this site, all of which will be fully acknowle
 and we'd be grateful for any feedback from users. We are pleased to be able to make
 this range of materials available and accessible to all; and we're thrilled to honour
 Ker's outstanding expertise and brilliance for a whole new readership.
+
+![Neil Ker Receiving his Honorary Doctorate](https://digital-ker.github.io/images/Ker-Home-page-Image.jpg)
