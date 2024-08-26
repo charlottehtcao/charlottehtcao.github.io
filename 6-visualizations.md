@@ -38,4 +38,4 @@ title: Visualizations
 -----
 ## Comparing Manuscript by the Word Count Length of Ker's Description
 
-<iframe src="https://charlottehtcao.github.io/visualizations/Ker-Word-Count-Box-Plot-R.html" width="400" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://charlottehtcao.github.io/visualizations/Ker-Word-Count-Box-Plot-R.html" width="600" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
