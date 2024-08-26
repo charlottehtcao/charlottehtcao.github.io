@@ -43,4 +43,4 @@ title: Visualizations
 -----
 ## Plotting Manuscripts by the Date of its Creation (Dot Plot)
 
-<iframe src="https://charlottehtcao.github.io/visualizations/Ker-Word-Count-Box-Plot-R.html" width="600" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://charlottehtcao.github.io/visualizations/Ker-Date-Dot-Plot-R.html" width="600" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
