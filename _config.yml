@@ -2,7 +2,7 @@
 title:               Digital Ker
 tagline:             Mapping Neil Ker at Stanford
 description:         Digital Ker is a digital project hosted by Stanford Text Technologies.
-url:                 https://digital-ker.github.io/digital-ker.io/
+url:                 https://digital-ker.github.io
 baseurl:            
 paginate:            5
 permalink:           pretty
