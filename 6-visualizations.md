@@ -38,7 +38,7 @@ title: Visualizations
 -----
 ## Comparing Manuscript by the Word Count Length of Ker's Description
 
-<iframe src="file:///Users/charlottecao/Documents/CESTA%20Ker%20Visualizations/Ker%20Word%20Count%20Box%20Plot%20R.html" width="700" height="700" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://charlottehtcao.github.io/Ker-Word-Count-Box-Plot-R.html" width="400" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 -----
 ## Map of Manuscript Provenance
