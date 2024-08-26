@@ -37,4 +37,4 @@ and we'd be grateful for any feedback from users. We are pleased to be able to m
 this range of materials available and accessible to all; and we're thrilled to honour
 Ker's outstanding expertise and brilliance for a whole new readership.
 
-<img src="https://digital-ker.github.io/images/Ker-Home-page-Image.jpg" alt="Neil Ker's Honorary Doctorate" width="500" height="700" style="display: block; margin: 0 auto;">
+<img src="https://digital-ker.github.io/images/Ker-Home-Page-Image.jpg" height="500" width="700">
