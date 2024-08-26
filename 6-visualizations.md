@@ -36,7 +36,11 @@ title: Visualizations
     </div>
 
 -----
+## Comparing Manuscript by the Word Count Length of Ker's Description
 
+<iframe src="file:///Users/charlottecao/Documents/CESTA%20Ker%20Visualizations/Ker%20Word%20Count%20Box%20Plot%20R.html" width="700" height="700" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+-----
 ## Map of Manuscript Provenance
 
 <iframe src="https://stanford.maps.arcgis.com/apps/instant/portfolio/index.html?appid=3d3266eb07c5489d9513def5f0faf7e2" width="700" height="700" frameborder="0" style="border:0" allowfullscreen title=""></iframe>
