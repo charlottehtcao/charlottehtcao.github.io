@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digitized Catalogue of Manuscripts
+title: Digitized Catalogue of Manuscripts Containing Anglo-Saxon
 ---
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.

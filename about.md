@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 <div class="message">
-Stanford Text Technologies, with the support of Stanford’s Center for Spatial and Textual Analysis and the Vice Provost for Undergraduate Education, has been working since 2022 on producing an updated, and now digital, version of Neil Ripley Ker’s Catalogue of Manuscripts containing Anglo-Saxon, which was published by Clarendon Press in 1957. Originally intended for Oxford University Press, this is now an Open Access resource: manipulable and quantifiable data is augmented with additional material on Neil Ker himself, on his publications, his previously unpublished archival sources, and contemporary scholarship that has advanced Ker’s foundational work.
+Stanford Text Technologies, with the support of Stanford’s Center for Spatial and Textual Analysis and the Vice Provost for Undergraduate Education, has been working since 2022 on producing an updated, and now digital, version of Neil Ripley Ker’s *Catalogue of Manuscripts containing Anglo-Saxon*, which was published by Clarendon Press in 1957. Originally intended for Oxford University Press, this is now an Open Access resource: manipulable and quantifiable data is augmented with additional material on Neil Ker himself, on his publications, his previously unpublished archival sources, and contemporary scholarship that has advanced Ker’s foundational work.
 </div>
 -----
 
 ## Meet the Team
 
-**Elaine Treharne** is the Principal Investigator for DigitalKer. She is the Roberta Bowman Denning Professor of Humanities, Professor of English, and Robert K. Packard Fellow in Undergraduate Education. She has published more than eighty articles and thirty books, generally focused on Old and Middle English and Manuscript Studies. She has run several major, externally-funded, research projects, and is currently working on a number of new book projects. She has long respected and been awed by Ker’s exceptional scholarly record and brilliance.
+**Elaine Treharne** is the Principal Investigator for *DigitalKer*. She is the Roberta Bowman Denning Professor of Humanities, Professor of English, and Robert K. Packard Fellow in Undergraduate Education. She has published more than eighty articles and thirty books, generally focused on Old and Middle English and Manuscript Studies. She has run several major, externally-funded, research projects, and is currently working on a number of new book projects. She has long respected and been awed by Ker’s exceptional scholarly record and brilliance.
 
 > A core team of superb undergraduate and graduate researchers have assisted substantially to the work thus far completed. These include:
 
