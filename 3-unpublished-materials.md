@@ -11,3 +11,8 @@ title: Unpublished Materials
 ## Ker Lecture on Manuscript Cataloguing
 <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Ker-Lecture-on-Manuscript-Cataloguing.pdf" width="800" height="600"></object>
 
+-----
+
+## Ker Lecture on Pricking and Ruling Manuscripts
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Ker-Lecture-on-Pricking-and-Ruling-Manuscripts.pdf" width="800" height="600"></object>
+
