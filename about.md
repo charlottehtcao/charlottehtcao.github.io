@@ -15,15 +15,15 @@ Stanford Text Technologies, with the support of Stanford’s Center for Spatial 
 
 **Charlotte Cao**, a rising sophomore at Stanford, was the summer 2024 CESTA intern for the Text Technologies project. During her internship, she worked to build the *DigitalKer* website, digitize the *Catalogue*, and create visualizations using data collected from the *Catalogue* itself. Outside of research, she enjoys reading and writing, exploring cafes around the area, and going to art museums. She is incredibly grateful to have been given this research opportunity and for having had the privilege of working with such a phenomenal team.
 
-> A core team of superb undergraduate and graduate researchers have assisted substantially in the past to the work thus far completed. These include:
+A core team of superb undergraduate and graduate researchers have assisted substantially in the past to the work thus far completed. These include:
 
-- Max Ashton
-- Fernando Bravo
-- Audrey Dickinson
-- Jessica Jordan
-- Lauren Selden
-- Sera Wang
-- Charlotte Zhu
+- **Max Ashton**
+- **Fernando Bravo**
+- **Audrey Dickinson**
+- **Jessica Jordan**
+- **Lauren Selden**
+- **Sera Wang**
+- **Charlotte Zhu**
 
 -----
 
