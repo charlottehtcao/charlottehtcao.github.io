@@ -11,9 +11,9 @@ Stanford Text Technologies, with the support of Stanford’s Center for Spatial 
 
 **Elaine Treharne** is the Principal Investigator for *DigitalKer*. She is the Roberta Bowman Denning Professor of Humanities, Professor of English, and Robert K. Packard Fellow in Undergraduate Education. She has published more than eighty articles and thirty books, generally focused on Old and Middle English and Manuscript Studies. She has run several major, externally-funded, research projects, and is currently working on a number of new book projects. She has long respected and been awed by Ker’s exceptional scholarly record and brilliance.
 
-**Eyup Eren Yurek**
+**Eyup Eren Yurek** has been the first undergraduate researcher to work on this project and has worked as the project manager on it, all starting the Spring of 2022. A graduate of a Bachelor's in Comparative Literature and a Master's in German Studies from Stanford University, Eren works on connections between critical and cultural theory and poetic form, and textual materiality, as well as the ways narrative exists in all parts of our lives. He is currently the Programs and Research Coordinator at CESTA (Center for Spatial and Textual Analysis), running programs and developing events for scholars and students interested in questions between computational and digital methods, and humanistic inquiry.
 
-**Charlotte Cao**
+**Charlotte Cao**, a rising sophomore at Stanford, was the summer 2024 CESTA intern for the Text Technologies project. During her internship, she worked to build the *DigitalKer* website, digitize the *Catalogue*, and create visualizations using data collected from the *Catalogue* itself. Outside of research, she enjoys reading and writing, exploring cafes around the area, and going to art museums. She is incredibly grateful to have been given this research opportunity and for having had the privilege of working with such a phenomenal team.
 
 > A core team of superb undergraduate and graduate researchers have assisted substantially in the past to the work thus far completed. These include:
 
