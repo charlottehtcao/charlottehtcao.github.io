@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Original 1957 Catalogue of Manuscripts Containing Anglo-Saxon
+title: Original 1957 Ker Catalogue
 ---
 
 Neil Ker’s *Catalogue of Manuscripts containing Anglo-Saxon* was published by Oxford’s Clarendon Press in 1957. At an extent of 64 preliminaries and 568 pages with eight plates, the volume cost £5 5s. This equates to more than £100 in 2024, so to purchase an original volume now is to pay an outstripping of the inflated cost by 100%, because second-hand *Catalogues*, when you can get them, regularly cost around £250. A new edition of the *Catalogue*, with a Supplement, was issued in 1991, and this instantiation has been updated by two further supplements compiled by Mary Blockley and included in the ‘Contemporary Scholarship’ section on this site.
