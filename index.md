@@ -11,9 +11,7 @@ title: Home
     .image-style {
         max-width: 50%;
         max-height: 50%;
-    }
-    figure {
-        text-align: center;
+        margin: 0 auto;
     }
 </style>
 
