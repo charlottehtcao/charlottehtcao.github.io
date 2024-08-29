@@ -14,7 +14,8 @@ reprinted 1991); *English Manuscripts in the Century after the Norman Conquest*
 Britain* (Oxford, 1964); and his core contribution to *Medieval Manuscripts in
 British Libraries* (vols. 1-4, Oxford, 1969-2002).
 
-<img src="https://digital-ker.github.io/images/Neil-Ripley-Ker-by-Walter-Bird.png" height="500" width="700">
+<img src="https://digital-ker.github.io/images/Neil-Ripley-Ker-by-Walter-Bird.png" height="800" width="500" style="float: right; margin: 10px;">
+> *Neil Ripley Ker by Walter Bird (National Portrait Gallery)* 
 
 This project, hosted by Stanford Text Technologies and led by Elaine Treharne, 
 seeks to consolidate and make accessible work by Ker that relates specifically to 
