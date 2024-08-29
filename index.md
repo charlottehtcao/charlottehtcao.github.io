@@ -7,6 +7,13 @@ title: Home
     <figcaption>Neil Ripley Ker by Walter Bird (National Portrait Gallery)</figcaption>
 </figure>
 
+<style>
+    .image-style {
+    max-width: 50%;
+    max-height: 50%;
+    }
+</style>
+
 Neil Ripley Ker (1908-1982), Reader in Palaeography and Fellow of Magdalen
 College at the University of Oxford, was a medieval manuscript scholar of
 unparalleled brilliance. His contribution to early literary and historical
