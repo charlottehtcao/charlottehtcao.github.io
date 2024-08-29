@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 <figure>
-    <img src="https://digital-ker.github.io/images/Neil-Ripley-Ker-by-Walter-Bird.png" height=300" width="250">
+    <img src="https://digital-ker.github.io/images/Neil-Ripley-Ker-by-Walter-Bird.png" class="image-style">
     <figcaption>Neil Ripley Ker by Walter Bird (National Portrait Gallery)</figcaption>
 </figure>
 
