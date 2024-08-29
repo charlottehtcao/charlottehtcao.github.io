@@ -52,4 +52,8 @@ and we'd be grateful for any feedback from users. We are pleased to be able to m
 this range of materials available and accessible to all; and we're thrilled to honour
 Ker's outstanding expertise and brilliance for a whole new readership.
 
-<img src="https://digital-ker.github.io/images/Ker-Home-Page-Image.jpg" height="500" width="700">
+<figure>
+    <img src="https://digital-ker.github.io/images/Ker-Home-Page-Image.jpg" height="500" width="700">
+    <figcaption>Neil Ripley Ker Receiving his Honorary Doctorate</figcaption>
+</figure>
+
