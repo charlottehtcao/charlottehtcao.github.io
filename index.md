@@ -9,12 +9,12 @@ title: Home
 
 <style>
     .image-style {
-    max-width: 50%;
-    max-height: 50%;
+        max-width: 50%;
+        max-height: 50%;
     }
     figure {
-  text-align: center;
-}
+        text-align: center;
+    }
 </style>
 
 Neil Ripley Ker (1908-1982), Reader in Palaeography and Fellow of Magdalen
